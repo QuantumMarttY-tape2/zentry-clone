@@ -6,7 +6,7 @@ The card tilt effect does not work.
 
 # 3. Location: /src/components/Story.jsx
 The card tilt effect does not work.
-ROundedCorners does not work.
+RoundedCorners does not work.
 
 # React + Vite
 
